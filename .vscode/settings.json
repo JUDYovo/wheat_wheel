@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "DataScope_DP.C": "cpp",
+        "LED.C": "cpp",
+        "*.tcc": "c"
+    }
+}
